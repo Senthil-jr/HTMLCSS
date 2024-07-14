@@ -1,0 +1,34 @@
+.exp>p {
+    font-size: 12px;
+    margin-top: 1;
+}
+
+.checked {
+    color: orange;
+}
+
+.required::after {
+    content: " *";
+    color: red;
+}
+
+.review {
+    background-color: rgb(255, 255, 255);
+    padding: 2px;
+    font-size: 18px;
+    
+}
+
+.table{
+    text-align: center;
+    text-indent:15;
+}
+
+.re {
+    width: 100%;
+    height: 2.5vh;
+}
+
+.last{
+    margin-left: 140px;
+}
